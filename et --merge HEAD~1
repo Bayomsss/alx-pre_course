@@ -1,0 +1,31 @@
+[33mbf29d63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: checkout: moving from master to master
+[33mbf29d63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{1}: checkout: moving from update_script to master
+[33md338a79[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m HEAD@{2}: checkout: moving from master to update_script
+[33mbf29d63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{3}: pull: Fast-forward
+[33m35af87e[m HEAD@{4}: checkout: moving from update_script to master
+[33md338a79[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m HEAD@{5}: checkout: moving from master to update_script
+[33m35af87e[m HEAD@{6}: reset: moving to HEAD
+[33m35af87e[m HEAD@{7}: reset: moving to HEAD~1
+[33mbf29d63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{8}: reset: moving to HEAD
+[33mbf29d63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{9}: checkout: moving from update_script to master
+[33md338a79[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m HEAD@{10}: checkout: moving from master to update_script
+[33mbf29d63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{11}: commit: How to be up to date in git
+[33m35af87e[m HEAD@{12}: commit: How to be up to date in git
+[33m37efd30[m HEAD@{13}: commit: How to be up to date in git
+[33md433a6f[m HEAD@{14}: pull: Fast-forward
+[33m912a8db[m HEAD@{15}: checkout: moving from master to master
+[33m912a8db[m HEAD@{16}: checkout: moving from update_script to master
+[33md338a79[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m HEAD@{17}: commit: How to be up to date in git
+[33m37ff1eb[m HEAD@{18}: commit (merge): How to be up to date in git
+[33macd3f03[m HEAD@{19}: checkout: moving from master to update_script
+[33m912a8db[m HEAD@{20}: commit: Hot fix
+[33m6516365[m HEAD@{21}: checkout: moving from update_script to master
+[33macd3f03[m HEAD@{22}: commit: My personal work
+[33m6516365[m HEAD@{23}: checkout: moving from master to update_script
+[33m6516365[m HEAD@{24}: commit (amend): Starting to code today, so cool
+[33m15452ae[m HEAD@{25}: commit (amend): Starting to code today, so cool
+[33m2d982d2[m HEAD@{26}: commit: moved filed to 0x01
+[33mf9713b4[m HEAD@{27}: commit: Update bash text
+[33m8b5e12a[m HEAD@{28}: commit: My first commit
+[33m532c6da[m HEAD@{29}: commit: My second commit
+[33m5f6dd0f[m HEAD@{30}: commit (initial): My first commit
